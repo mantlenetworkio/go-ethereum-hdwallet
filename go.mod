@@ -1,4 +1,4 @@
-module github.com/ethereum-optimism/go-ethereum-hdwallet
+module github.com/mantlenetworkio/go-ethereum-hdwallet
 
 go 1.18
 
