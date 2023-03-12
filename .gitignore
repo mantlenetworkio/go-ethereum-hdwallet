@@ -2,4 +2,5 @@
 dist
 build
 node_modules
+.idea
 vendor/github.com/ethereum/go-ethereum
